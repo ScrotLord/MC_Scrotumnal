@@ -1,0 +1,18 @@
+{
+  "music.lone_mosquitto": {
+    "sounds": [
+      {
+        "name": "scrotumnal:music/lone_mosquitto",
+        "stream": true
+      }
+    ]
+  },
+  "music.subaru": {
+    "sounds": [
+      {
+        "name": "scrotumnal:music/subaru",
+        "stream": true
+      }
+    ]
+  }
+}
